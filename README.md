@@ -93,9 +93,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![Mallumoder](https://lh3.googleusercontent.com/proxy/zA9kxxEgUTmLWSNJO9pWVbnAFBJ1yyq3q5gLOS-CZ23oUqLucaHAU6rumA-PjxRvFe25EJ3oC7sCkWSL0xL-ll9j1iF1S0Y?size=100)](https://github.com/mallumoder)
-----|----|----
+
 [Mallumoder](https://github.com/mallumoder)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+Base, Bug Fixes, Modules
   </div>
     
 
